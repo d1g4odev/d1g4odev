@@ -44,14 +44,6 @@
 
 ---
 
-## 🐍 Snake do GitHub
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/d1g4odev/d1g4odev/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📫 Contato
 
 <div align="center">
@@ -64,7 +56,7 @@
   <a href="https://github.com/d1g4odev">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://instagram.com">
+  <a href="https://instagram.com/duartedigao_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
