@@ -8,7 +8,7 @@
 
 ## 🧠 Sobre mim
 
-- ⚙️ Desenvolvedor backend com foco em APIs, sistemas CRUD e automações.
+- ⚙️ Desenvolvedor fullstack com foco em APIs, sistemas CRUD e automações.
 - 📚 Graduando em Ciência da Computação na URI – Campus Santiago.
 - 🤖 Estudando Inteligência Artificial e tecnologias backend.
 
